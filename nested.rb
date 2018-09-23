@@ -55,7 +55,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-		 drlanguage.inspect = programmer_hash [:dennis_ritchie][:languages]
+		 drlanguage = programmer_hash [:dennis_ritchie][:languages]
 
     end
 
