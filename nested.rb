@@ -78,7 +78,7 @@ def adding_matz
 		 :known_for => "Ruby",
 		 :languages => ["LISP", "C"]
 		 }
-   return programmer_hash
+   return programmer_hash.inspect
 end
 
 def changing_alan
